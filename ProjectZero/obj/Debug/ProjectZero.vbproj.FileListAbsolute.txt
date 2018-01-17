@@ -1,0 +1,15 @@
+C:\Users\Raphaël Sente\source\repos\ProjectZero\ProjectZero\bin\Debug\ProjectZero.exe.config
+C:\Users\Raphaël Sente\source\repos\ProjectZero\ProjectZero\bin\Debug\ProjectZero.exe
+C:\Users\Raphaël Sente\source\repos\ProjectZero\ProjectZero\bin\Debug\ProjectZero.pdb
+C:\Users\Raphaël Sente\source\repos\ProjectZero\ProjectZero\bin\Debug\ProjectZero.xml
+C:\Users\Raphaël Sente\source\repos\ProjectZero\ProjectZero\obj\Debug\ProjectZero.Resources.resources
+C:\Users\Raphaël Sente\source\repos\ProjectZero\ProjectZero\obj\Debug\ProjectZero.vbproj.GenerateResource.Cache
+C:\Users\Raphaël Sente\source\repos\ProjectZero\ProjectZero\obj\Debug\ProjectZero.vbproj.CoreCompileInputs.cache
+C:\Users\Raphaël Sente\source\repos\ProjectZero\ProjectZero\obj\Debug\ProjectZero.exe
+C:\Users\Raphaël Sente\source\repos\ProjectZero\ProjectZero\obj\Debug\ProjectZero.xml
+C:\Users\Raphaël Sente\source\repos\ProjectZero\ProjectZero\obj\Debug\ProjectZero.pdb
+C:\Users\Raphaël Sente\source\repos\ProjectZero\ProjectZero\bin\Debug\MySql.Data.dll
+C:\Users\Raphaël Sente\source\repos\ProjectZero\ProjectZero\bin\Debug\MySql.Data.xml
+C:\Users\Raphaël Sente\source\repos\ProjectZero\ProjectZero\obj\Debug\ProjectZero.LoginFRM.resources
+C:\Users\Raphaël Sente\source\repos\ProjectZero\ProjectZero\obj\Debug\ProjectZero.MainForm.resources
+C:\Users\Raphaël Sente\source\repos\ProjectZero\ProjectZero\obj\Debug\ProjectZero.vbprojResolveAssemblyReference.cache
